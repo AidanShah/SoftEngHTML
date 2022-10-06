@@ -16,6 +16,7 @@ You should use brackets, which are tags in HTML, to set off elements from each o
   "head" is a metadata tag which contains everything important about the webpage. You do not see the info contained in it when you look at the webpage. "body" contains everything that you see on the webpage, such as images, paragraph text, and other visuals.
 
 4. What are semantic elements, and why are they preferable to regular HTML elements?
+It structures the code, making it more readable and easier to maintain. It also helps us to understand the hierarchy properly. 
 
 
 5. What is the DOM?
