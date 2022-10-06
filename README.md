@@ -5,6 +5,7 @@ We have curated an excellent selection of websites for your viewing pleasure. We
 ### Questions:
 1. What does HTML stand for?
 
+HTML stands for Hypertext Markup Language. Hypertext means that web pages can be connected to each other, and Markup means that you can annotate text, images and other elements of a website.
 
 2. What is the syntax for writing HTML?
 
