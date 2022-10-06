@@ -21,3 +21,5 @@ It structures the code, making it more readable and easier to maintain. It also 
 
 
 5. What is the DOM?
+
+The DOM is a model of an HTML document that treats it as tree in which ech element is connected to a parent element. The only exception is the document itself, which is the head of the tree. DOM stands for Document Object Model.
