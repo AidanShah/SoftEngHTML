@@ -9,6 +9,7 @@ HTML stands for Hypertext Markup Language. Hypertext means that web pages can be
 
 2. What is the syntax for writing HTML?
 
+You should use brackets, which are tags in HTML, to set off elements from each other. Some examples of tags are <p> for paragraph, which encases a paragraph on the webpage.
 
 3. Explain what <head> and <body> are and what they should contain.
 
