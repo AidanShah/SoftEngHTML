@@ -1,0 +1,22 @@
+
+ol >:first-child {
+    color: purple;
+}
+
+ul >:first-child {
+    color: blue;
+}
+
+p {
+    padding-left: 0vw;
+    padding-top: 0vw;
+    padding-right: 0vw;
+    padding-bottom: 0vw;
+    margin-left: 1.5vh;
+    margin-right: 1.5vh;
+}
+
+.images * {
+    border-radius: 30%;
+    opacity: 70%;
+}
