@@ -4,9 +4,15 @@ body {
 
 a {
     color: yellowgreen;
-    transition-duration: 1s;
+    transition-duration: .6s;
   }
 
 a:hover {
     color: gainsboro;
 }
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  
