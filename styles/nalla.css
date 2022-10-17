@@ -1,0 +1,21 @@
+ol >:first-child {
+    color: greenyellow;
+}
+
+ul >:first-child {
+    color: peru;
+}
+
+p {
+    padding-left: 0vw;
+    padding-top: 0vw;
+    padding-right: 0vw;
+    padding-bottom: 0vw;
+    margin-left: 1.5vh;
+    margin-right: 1.5vh;
+}
+
+.text * {
+    color: blueviolet;
+    text-align: justify;
+}
