@@ -15,3 +15,15 @@ A class is a selector that is used to define style rules for elements with speci
 I think we answered this question well in our answer for number 3.
 
 *5. Explain the difference between these units: `px`, `em`, `vw`, `%`, `rem`*
+
+These units are all used to express length.
+
+px is called the "magic unit" of CSS because it is unrelated to the current font and usually unrelated to physical units like centimeters.
+
+em is the unit that is equal o the font size. For example, em is equal to 2 inches when the font is equal to 2 inches.
+
+vw is equal to 1% of the window's width. Not all browsers support vw since it's relatively new.
+
+% is used when defining size as relative to the size of another object.
+
+rem, which means "root em," is equal to the font size of the document's root element.
