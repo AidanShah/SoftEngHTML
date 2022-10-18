@@ -5,6 +5,5 @@ a:hover {
     color:aqua;
 }
 a{
-    display: flex;
     justify-content: space-around;
 }
