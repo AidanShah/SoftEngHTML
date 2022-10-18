@@ -6,4 +6,5 @@ a:hover {
 }
 a{
     justify-content: space-around;
+    display: inline;
 }
