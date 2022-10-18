@@ -1,6 +1,7 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+<<<<<<< HEAD
 
 a {
     color: yellowgreen;
@@ -16,3 +17,12 @@ nav ul {
     justify-content: space-between;
   }
   
+=======
+a:hover {
+    color:aqua;
+}
+a{
+    justify-content: space-around;
+    display: inline;
+}
+>>>>>>> fa4d278807e1abe1c26b89be080dfac3ee956b65
