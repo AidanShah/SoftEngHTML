@@ -1,0 +1,21 @@
+ol >:first-child {
+    color: orange;
+}
+
+ul >:first-child {
+    color: gray;
+}
+
+p {
+    padding-left: 0vw;
+    padding-top: 0vw;
+    padding-right: 0vw;
+    padding-bottom: 0vw;
+    margin-left: 1.5vh;
+    margin-right: 1.5vh;
+}
+
+.text * {
+    color: tan;
+    text-align: justify;
+}
