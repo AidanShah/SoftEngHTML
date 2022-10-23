@@ -1,6 +1,7 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+<<<<<<< HEAD
 a:hover {
     color:aqua;
 }
@@ -8,3 +9,18 @@ a{
     justify-content: space-around;
     display: inline;
 }
+=======
+a {
+    color: yellowgreen;
+    transition-duration: .6s;
+  }
+
+a:hover {
+    color: gainsboro;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+>>>>>>> d0092d4e79ce1e3be4a7f43e6d314a4ea99d984c
