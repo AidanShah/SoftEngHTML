@@ -1,23 +1,6 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
-<<<<<<< HEAD
-
-a {
-    color: yellowgreen;
-    transition-duration: .6s;
-  }
-
-a:hover {
-    color: gainsboro;
-}
-
-nav ul {
-    display: flex;
-    justify-content: space-between;
-  }
-  
-=======
 a:hover {
     color:aqua;
 }
@@ -25,4 +8,3 @@ a{
     justify-content: space-around;
     display: inline;
 }
->>>>>>> fa4d278807e1abe1c26b89be080dfac3ee956b65
