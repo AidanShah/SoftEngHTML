@@ -4,6 +4,7 @@
 <head>
 <link rel="stylesheet" href="styles/harrison.css" />
 <link rel="stylesheet" href="styles/index.css" />
+<script src = "javascript/harrison.js"></script>
 <title>HarrisonOwens</title>
 </head>
 <body>  
@@ -34,5 +35,36 @@ Here is a list of bad video games
     <li>Fortnite</li>
 </ol>
 </p>
+
+<!--Problem 2 button-->
+<button id = "button" onclick = "makeText()">Add a Paragraph</button>
+
+<br>
+
+<!--Problem 3 button-->
+<button id = "button" onclick = "increaseNumber()">Add 1</button>
+<h4 id = "stuff">0</h4>
+
+<!--Problem 4-->
+<button id = "button" onclick = "changeColor('red')">Red</button>
+<button id = "button" onclick = "changeColor('yellow')">Yellow</button>
+<button id = "button" onclick = "changeColor('blue')">Blue</button>
+
+<p id = "experiment">Experiment with color</p>
+
+<!--Problem 5-->
+<input id = "inputText1"></input>
+<button id = "enterText1" onclick = "displayEnteredText('inputText1', 'enteredText1')">Enter text here</button>
+<p id = "enteredText1"></p>
+
+<!--Problem 6-->
+<select id = "fontSelect" onchange = "changeFont('fontSelect', 'fonted')">
+    <option value = "Times"> Times New Roman</option>
+    <option value = "Verdana"> Verdana </option>
+    <option value = "Arial"> Arial </option>
+</select>
+
+<p id = "fonted">Change this font</p>
+
 </body>
 </html>
